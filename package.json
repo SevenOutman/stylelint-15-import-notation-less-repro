@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "lint": "stylelint *.less"
+  },
+  "devDependencies": {
+    "postcss-less": "^6.0.0",
+    "stylelint": "^15.10.2",
+    "stylelint-config-standard": "^34.0.0"
+  }
+}
